@@ -4,6 +4,14 @@ Trata-se de uma ferramenta de gestão para analisar os indicadores mais importan
 
 Os KPIs fornecem insights em tempo real sobre processos operacionais, resultados financeiros, satisfação do cliente e muito mais, em qualquer setor ou processo. Ao medir esses fatores e realizar ajustes quando necessário, as empresas podem aumentar sua eficiência, melhorar seus resultados gerais e se manter à frente no mundo dos negócios em constante mudança.
 <br>
+<br>
+<br>
+
+#### Sobre o Projeto: **Este Projeto foi Desenvolvido Sob Mentoria da Instituição [Data Science Academy.](https://www.datascienceacademy.com.br)**
+---
+
+<br>
+
 ## Objetivo
 
 Neste projeto, vamos analisar e interpretar 8 KPI's com base nos dados fictícios fornecidos. Esses indicadores foram definidos pela área de planejamento estratégico da empresa para monitorar a evolução das vendas e a eficácia das campanhas de marketing ao longo do tempo.
@@ -191,13 +199,8 @@ No entanto, houve uma queda significativa em setembro, indicando uma possível p
 
 Em suma, essa análise destaca as flutuações na retenção dos clientes ao longo do período, evidenciando variações em diferentes meses.
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 
-Sobre o Projeto:
----
-Este Projeto foi Desenvolvido Sob a Mentoria da Instituição Data Science Academy.
+
+
