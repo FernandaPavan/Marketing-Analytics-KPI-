@@ -40,6 +40,8 @@ No gráfico-1, observamos um desequilíbrio no início do período: o faturament
 
 <br>
 No gráfico-2, Vamos analisar os dados mês a mês:
+<br>
+
 
 * **Janeiro e Fevereiro:** Houve um aumento, embora abaixo de zero. Isso sugere que a empresa estava se recuperando, mas ainda não atingiu níveis positivos.
 * **Março:** Registrou um aumento considerável. Isso pode indicar uma melhoria significativa nas operações ou demanda.
@@ -64,6 +66,7 @@ Essa métrica ajuda a tomar decisões estratégicas, como planejar recursos, per
 
 <br>
 No gráfico-3, podemos observar os seguintes padrões:
+<br>
 
 
 Entre dezembro de 2010-12 e outubro de 2011-11, observamos um padrão consistente de oscilação no número de clientes ativos por mês, com períodos de aumento e diminuição. Em seguida, houve um aumento significativo em novembro de 2011-11, alcançando seu pico. O mês de dezembro não temos dados adequados para comparação.
@@ -79,6 +82,7 @@ A importância de avaliar o "Total de Itens Comprados Por Mês" está em contrib
 
 <br>
 No gráfico-4, podemos identificar padrões sazonais e oportunidades estratégicas:
+<br>
 
 * **Variação Sazonal:**
 No início do ano, observamos um volume menor de vendas.
@@ -139,7 +143,7 @@ A diferença de faturamento ao longo do tempo entre clientes novos e antigos ref
 ![alt text](https://github.com/FernandaPavan/Marketing-Analytics-KPI-/assets/110939025/fa36c9c2-2173-4afd-a92c-4d14d964797d)
 
 <br>
-No gráfico-7, ao analisarmos o início da operação, os valores são bem próximos para os dois grupos de clientes: novos e antigos. Conforme o tempo passa, os clientes novos tornam-se clientes antigos, e a empresa adquire novos clientes ao longo do tempo.
+No gráfico-7, ao analisarmos o início da operação, os valores são bem próximos para os dois grupos de clientes novos e antigos. Conforme o tempo passa, os clientes novos tornam-se clientes antigos, e a empresa adquire novos clientes ao longo do tempo.
 <br>
 
 No final do período, a retenção torna-se relevante: houve mais retenção de clientes antigos ou aquisição de novos clientes?
@@ -160,7 +164,7 @@ A taxa de novos clientes serve para acompanhar e avaliar a eficácia das estrat�
 
 <br>
 No gráfico-8, a interpretação da taxa de novos clientes por mês indica que houve flutuações ao longo do período analisado:
-
+<br>
 Houve um aumento significativo de novos clientes de fevereiro à abril, sugerindo que as estratégias de aquisição de clientes adotadas pela empresa foram bem-sucedidas durante esse período.<br>
 
 Posteriormente, houve uma diminuição no volume de novos clientes até agosto, o que pode indicar uma possível estagnação ou redução na eficácia das estratégias.
