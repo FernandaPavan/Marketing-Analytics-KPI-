@@ -42,7 +42,7 @@ No gráfico-1, observamos um desequilíbrio no início do período: o faturament
 No gráfico-2, Vamos analisar os dados mês a mês:
 
 <br>
-
+<br>
 
 * **Janeiro e Fevereiro:** Houve um aumento, embora abaixo de zero. Isso sugere que a empresa estava se recuperando, mas ainda não atingiu níveis positivos.
 * **Março:** Registrou um aumento considerável. Isso pode indicar uma melhoria significativa nas operações ou demanda.
