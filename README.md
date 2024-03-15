@@ -68,7 +68,7 @@ Essa métrica ajuda a tomar decisões estratégicas, como planejar recursos, per
 <br>
 No gráfico-3, podemos observar os seguintes padrões:
 <br>
-
+<br>
 
 Entre dezembro de 2010-12 e outubro de 2011-11, observamos um padrão consistente de oscilação no número de clientes ativos por mês, com períodos de aumento e diminuição. Em seguida, houve um aumento significativo em novembro de 2011-11, alcançando seu pico. O mês de dezembro não temos dados adequados para comparação.
 <br>
@@ -83,6 +83,7 @@ A importância de avaliar o "Total de Itens Comprados Por Mês" está em contrib
 
 <br>
 No gráfico-4, podemos identificar padrões sazonais e oportunidades estratégicas:
+<br>
 <br>
 
 * **Variação Sazonal:**
@@ -144,7 +145,8 @@ A diferença de faturamento ao longo do tempo entre clientes novos e antigos ref
 ![alt text](https://github.com/FernandaPavan/Marketing-Analytics-KPI-/assets/110939025/fa36c9c2-2173-4afd-a92c-4d14d964797d)
 
 <br>
-No gráfico-7, ao analisarmos o início da operação, os valores são bem próximos para os dois grupos de clientes novos e antigos. Conforme o tempo passa, os clientes novos tornam-se clientes antigos, e a empresa adquire novos clientes ao longo do tempo.
+No gráfico-7, ao analisarmos o início da operação, os valores são bem próximos para os dois grupos de clientes novos e antigos.<br>
+Conforme o tempo passa, os clientes novos tornam-se clientes antigos, e a empresa adquire novos clientes ao longo do tempo.
 <br>
 
 No final do período, a retenção torna-se relevante: houve mais retenção de clientes antigos ou aquisição de novos clientes?
