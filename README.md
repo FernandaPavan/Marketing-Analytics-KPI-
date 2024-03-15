@@ -40,6 +40,7 @@ No gráfico-1, observamos um desequilíbrio no início do período: o faturament
 
 <br>
 No gráfico-2, Vamos analisar os dados mês a mês:
+
 <br>
 
 
